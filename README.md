@@ -1,3 +1,3 @@
 # lefthook-config-hyperupcall
 
-Common configuration for [lefthook](https://github.com/evilmartians/lefthook).
+Edwin's [lefthook](https://github.com/evilmartians/lefthook) configuration.
